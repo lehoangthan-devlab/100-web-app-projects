@@ -1,5 +1,23 @@
 # 100-web-app-projects
-Tổng hợp 100 dự án thực hành từ cơ bản đến nâng cao trong lĩnh vực web app.
+
+> Tổng hợp 100 dự án thực hành từ cơ bản đến nâng cao trong lĩnh vực web app.
+
+# ✅ Lưu ý
+
+- Đây là một tập hợp dự án **học tập** do cá nhân tự thực hiện nhằm luyện kỹ năng lập trình web ở nhiều cấp độ khác nhau.
+- Tất cả nội dung được chia sẻ với mục đích **giáo dục và phát triển kỹ năng**.
+- Một số dự án có thể mô phỏng quy trình thực tế, nhưng **không nên dùng trực tiếp trong sản phẩm sản xuất** nếu chưa kiểm thử kỹ lưỡng.
+- Vui lòng **không sử dụng vào mục đích thương mại** nếu không có sự điều chỉnh và tối ưu phù hợp.
+- Nếu phát hiện lỗi hoặc có ý tưởng cải thiện, bạn có thể đóng góp bằng cách mở issue hoặc gửi pull request.
+
+# 📁 Danh mục
+
+- [🔰 Beginner (01–30)](#-beginner-projects)
+- [⚙ Intermediate (31–70)](#-intermediate-projects)
+- [🧠 Advanced (71–100)](#-advanced-projects)
+
+---
+
 ## 🔰 Beginner Projects
 
 | STT | Dự án | Mô tả |
@@ -34,7 +52,8 @@ Tổng hợp 100 dự án thực hành từ cơ bản đến nâng cao trong lĩ
 | 028 | [Basic Markdown Previewer]() | Nhập văn bản Markdown và xem kết quả HTML live. |
 | 029 | [Color Picker Tool]() | Tạo công cụ chọn màu với mã HEX. |
 | 030 | [BMI Calculator]() | Tính chỉ số khối cơ thể từ chiều cao và cân nặng. |
-## ⚙️ Intermediate Projects
+
+## ⚙ Intermediate Projects
 
 | STT | Dự án | Mô tả |
 |-----|-------|-------|
@@ -78,6 +97,7 @@ Tổng hợp 100 dự án thực hành từ cơ bản đến nâng cao trong lĩ
 | 068 | [Dynamic Theme Switcher]() | Chuyển đổi giao diện theo chủ đề hoặc thời gian. |
 | 069 | [Form Builder UI]() | UI cho phép kéo-thả các input để tạo form. |
 | 070 | [Responsive Pricing Table]() | Thiết kế bảng giá tương thích mọi màn hình. |
+
 ## 🧠 Advanced Projects
 
 | STT | Dự án | Mô tả |
