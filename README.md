@@ -22,7 +22,7 @@
 
 | STT | Dự án | Mô tả |
 |-----|-------|-------|
-| 001 | [HTML Portfolio Page]() | Tạo trang portfolio cá nhân đơn giản bằng HTML & CSS. |
+| 001 | [HTML Portfolio Page](https://github.com/lehoangthan-devlab/personal-portfolio) | Tạo trang portfolio cá nhân đơn giản bằng HTML & CSS. |
 | 002 | [Responsive Landing Page]() | Thiết kế landing page có responsive cho thiết bị di động. |
 | 003 | [Simple Calculator]() | Ứng dụng máy tính cơ bản bằng JavaScript. |
 | 004 | [To-Do List App]() | Ứng dụng ghi chú việc cần làm có tính năng thêm/xóa/cập nhật. |
